@@ -1,0 +1,8 @@
+{
+  "name": "lastfm-syncplay",
+  "description": "Play last.fm recommendations together with your friends",
+  "dependencies": {
+    "@fastify/websocket": "^7.1.1",
+    "fastify": "^4.9.2"
+  }
+}
